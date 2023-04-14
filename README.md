@@ -16,6 +16,7 @@
 <!--   my-header-img -->
 
 <a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="right" height="48" width="48" ></a>
+<a href="https://github.com/appsmithorg/appsmith"><img src="https://app.appsmith.com/static/media/appsmith_logo_square.3867b1959653dabff8dc.png" align="right" height="48" width="48" ></a>
 <a href="https://github.com/kubesphere"><img src="https://avatars.githubusercontent.com/u/37326490?s=200&v=4" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker -->    
