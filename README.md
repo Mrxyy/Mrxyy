@@ -1,7 +1,7 @@
 ![](./src/header_.png)
 
 
-<img alt="Mrxyy" src="https://avatars.githubusercontent.com/u/49010414?v=4" width="60" height="60" align="left" road>
+<img alt="Mrxyy" src="https://avatars.githubusercontent.com/u/49010414?v=4" width="60" height="60" align="left" style="margin: auto">
 
 <!--   my-icons -->
 <p align="center">
@@ -26,14 +26,15 @@
 ### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
 
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.ap
+p/api/badges/andrej0marinchenko/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
 -->
 
 | Property                                                                      | Data                                              |
- | -------- | -------- |
-| **Domain Knownledge**                           | [![Machine Learning Badge](https://img.shields.io/badge/-CI%20/%20CD-01D277?style=flat&logoColor=white)](https://github.com/Mrxyy/Mrxyy) [![Computer Science Development Badge](https://img.shields.io/badge/-Cloud-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3AMrxyy&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-frontend-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3AMrxyy&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3AMrxyy&type=Repositories)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                                              
+ | ------------------------------------------------------------------------------------------------------------------------   | -------- |
+| **Domain Knownledge**                           | [![Machine Learning Badge](https://img.shields.io/badge/-CI%20/%20CD-01D277?style=flat&logoColor=white)](https://github.com/Mrxyy/Mrxyy) [![Computer Science Development Badge](https://img.shields.io/badge/-Cloud-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3AMrxyy&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-frontend-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3AMrxyy&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3AMrxyy&type=Repositories)<img src="#" align="right" height="0" width="550" >
                                
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
@@ -41,4 +42,4 @@
 
 | stars                                                                                                                                       | Language                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Mrxyy's github stats](https://github-readme-stats.vercel.app/api?username=Mrxyy&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrxyy&theme=radical&layout=compact) |
+| <img src="https://github-readme-stats.vercel.app/api?username=Mrxyy&show_icons=true&theme=radical&include_all_commits=true" width="550" height=200 > | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrxyy&theme=radical&layout=compact" width="550" height=200 > |
