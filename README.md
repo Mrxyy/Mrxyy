@@ -39,8 +39,8 @@ p/api/badges/andrej0marinchenko/dataset/light)
                                
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![Mrxyy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mrxyy&theme=redical)](https://github.com/Mrxyy)
+[![Mrxyy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mrxyy&bg_color=0&color=fe438e&line=fe438e&point=fe438e&area=true&hide_border=true)](https://github.com/Mrxyy)
 
 | stars                                                                                                                                       | Language                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=Mrxyy&show_icons=true&theme=radical&include_all_commits=true" width="550" height=200 > | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrxyy&theme=radical&layout=compact" width="550" height=200 > |
+| <img src="https://github-readme-stats.vercel.app/api?username=Mrxyy&show_icons=true&theme=radical&include_all_commits=true&bg_color=0" width="550" height=200 > | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrxyy&theme=radical&layout=compact&bg_color=0" width="550" height=200 > |
